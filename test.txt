@@ -1,11 +1,11 @@
 REST API - JSON
 
-GET /users - List all users
+GET /users - List all users -done
 
-GET /users id - Get the user with ID id
+GET /users id - Get the user with ID id -done
 
-POST /users - Create new user
+POST /users - Create new user -isko baad mei dekhenge
 
-PATCH /users/id - Edit the user with ID id
+PATCH /users/id - Edit the user with ID id -isko baad mei dekhenge
 
-DELETE /users/id - Delete the user with ID id
+DELETE /users/id - Delete the user with ID id -isko baad mei dekhenge
